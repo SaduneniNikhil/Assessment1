@@ -1,0 +1,6 @@
+com\example\demo\ProductApplicationsApplication.class
+com\example\controller\ProductSubProductController.class
+com\tetrasoft\repo\MainProductRepo.class
+com\tetrasoft\repo\SubProductRepo.class
+com\example\model\SubProduct.class
+com\example\model\MainProduct.class
